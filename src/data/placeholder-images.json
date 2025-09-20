@@ -1,0 +1,76 @@
+{
+  "placeholderImages": [
+    {
+      "id": "avatar-1",
+      "description": "Portrait of an artisan",
+      "imageUrl": "https://picsum.photos/seed/avatar1/200/200",
+      "imageHint": "portrait person"
+    },
+    {
+      "id": "avatar-2",
+      "description": "Portrait of a buyer",
+      "imageUrl": "https://picsum.photos/seed/avatar2/200/200",
+      "imageHint": "happy person"
+    },
+    {
+      "id": "avatar-3",
+      "description": "Artisan smiling",
+      "imageUrl": "https://picsum.photos/seed/avatar3/200/200",
+      "imageHint": "smiling person"
+    },
+    {
+      "id": "avatar-4",
+      "description": "Buyer looking at art",
+      "imageUrl": "https://picsum.photos/seed/avatar4/200/200",
+      "imageHint": "person thinking"
+    },
+    {
+      "id": "craft-1",
+      "description": "Handmade ceramic vase",
+      "imageUrl": "https://picsum.photos/seed/craft1/600/400",
+      "imageHint": "pottery vase"
+    },
+    {
+      "id": "craft-2",
+      "description": "Woven tapestry",
+      "imageUrl": "https://picsum.photos/seed/craft2/600/400",
+      "imageHint": "woven tapestry"
+    },
+    {
+      "id": "craft-3",
+      "description": "Custom leather wallet",
+      "imageUrl": "https://picsum.photos/seed/craft3/600/400",
+      "imageHint": "leather wallet"
+    },
+    {
+      "id": "craft-4",
+      "description": "Blown glass sculpture",
+      "imageUrl": "https://picsum.photos/seed/craft4/600/400",
+      "imageHint": "glass sculpture"
+    },
+    {
+      "id": "craft-5",
+      "description": "Hand-carved wooden bowl",
+      "imageUrl": "https://picsum.photos/seed/craft5/600/400",
+      "imageHint": "wooden bowl"
+    },
+    {
+      "id": "craft-6",
+      "description": "Silver filigree earrings",
+      "imageUrl": "https://picsum.photos/seed/craft6/600/400",
+      "imageHint": "silver earrings"
+    },
+    {
+      "id": "craft-7",
+      "description": "Knitted winter scarf",
+      "imageUrl": "https://picsum.photos/seed/craft7/600/400",
+      "imageHint": "knitted scarf"
+    },
+    {
+      "id": "craft-8",
+      "description": "Handmade paper journal",
+      "imageUrl": "https://picsum.photos/seed/craft8/600/400",
+      "imageHint": "handmade journal"
+    }
+  ]
+}
